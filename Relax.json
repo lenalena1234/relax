@@ -47,7 +47,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"workadvmaps\/tilesets\/walls.gif",
+         "image":"walls.gif",
          "imageheight":832,
          "imagewidth":256,
          "margin":0,
@@ -60,7 +60,7 @@
         {
          "columns":10,
          "firstgid":209,
-         "image":"workadvmaps\/tilesets\/fantasy_trees.gif",
+         "image":"fantasy_trees.gif",
          "imageheight":800,
          "imagewidth":336,
          "margin":0,
@@ -73,7 +73,7 @@
         {
          "columns":31,
          "firstgid":459,
-         "image":"workadvmaps\/workadventure\/tilesets\/Atlas2_build_atlas.png",
+         "image":"Atlas2_build_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":1,
@@ -86,7 +86,7 @@
         {
          "columns":16,
          "firstgid":1420,
-         "image":"workadvmaps\/tilesets\/house_inside_1.png",
+         "image":"house_inside_1.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -99,7 +99,7 @@
         {
          "columns":32,
          "firstgid":1644,
-         "image":"workadvmaps\/workadventure\/tilesets\/Atlas2_obj_misk_atlas.png",
+         "image":"Atlas2_obj_misk_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
