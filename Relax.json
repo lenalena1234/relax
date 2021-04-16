@@ -20,6 +20,12 @@
          "id":2,
          "name":"surface",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":35,
@@ -36,7 +42,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"lenalena1234.github.io\/kitchen\/"
+                 "value":"Eingangshalle+Helpdesk2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
